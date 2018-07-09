@@ -1,0 +1,1 @@
+ processing-java --force --output=./out --sketch=../starlings --run
